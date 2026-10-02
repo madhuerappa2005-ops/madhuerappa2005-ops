@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student At M.S.Engineering college<br>Banglore,karanataka<br>I'M fresher<br>I'M currently learnig javascript,react.js.node.js
+Student At M.S.Engineering college<br>Banglore,karanataka<br>I'M fresher<br>I'M currently learning cybersecurity
 
 
 ## 🌐 Socials:
